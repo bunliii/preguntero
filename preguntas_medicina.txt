@@ -522,3 +522,762 @@
 
 ¿Qué enfermedad produce inflamación del hígado y puede llevar a cicatrización?
 (Respuesta): Cirrosis.
+
+¿Cómo se llama el aumento de la temperatura corporal?
+(Respuesta): Fiebre.
+
+¿Cómo se llama el dolor de cabeza?
+(Respuesta): Cefalea.
+
+¿Cómo se llama la dificultad para respirar?
+(Respuesta): Disnea.
+
+¿Cómo se llama el dolor en el pecho?
+(Respuesta): Dolor torácico.
+
+¿Cómo se llama la pérdida de conciencia temporal?
+(Respuesta): Síncope.
+
+¿Cómo se llama el color amarillo en piel y ojos?
+(Respuesta): Ictericia.
+
+¿Cómo se llama la presencia de sangre en la orina?
+(Respuesta): Hematuria.
+
+¿Cómo se llama el exceso de sudoración?
+(Respuesta): Hiperhidrosis.
+
+¿Cómo se llama el sangrado por la nariz?
+(Respuesta): Epistaxis.
+
+¿Cómo se llama la sensación de mareo o giro del entorno?
+(Respuesta): Vértigo.
+
+¿Cómo se llama la pérdida parcial o total de la visión?
+(Respuesta): Ceguera.
+
+¿Cómo se llama la dificultad para tragar alimentos?
+(Respuesta): Disfagia.
+
+¿Cómo se llama la pérdida del sentido del olfato?
+(Respuesta): Anosmia.
+
+¿Cómo se llama la pérdida del sentido del gusto?
+(Respuesta): Ageusia.
+
+¿Cómo se llama la sensación de hormigueo en la piel?
+(Respuesta): Parestesia.
+
+¿Cómo se llama el dolor muscular?
+(Respuesta): Mialgia.
+
+¿Cómo se llama el dolor en las articulaciones?
+(Respuesta): Artralgia.
+
+¿Cómo se llama el dolor abdominal?
+(Respuesta): Dolor abdominal.
+
+¿Cómo se llama la inflamación del cuerpo o una parte de él?
+(Respuesta): Edema.
+
+¿Cómo se llama la presencia de vómitos?
+(Respuesta): Vómitos.
+
+¿Cómo se llama la sensación de querer vomitar?
+(Respuesta): Náuseas.
+
+¿Cómo se llama la evacuación intestinal líquida frecuente?
+(Respuesta): Diarrea.
+
+¿Cómo se llama la dificultad para evacuar heces?
+(Respuesta): Estreñimiento.
+
+¿Cómo se llama la disminución del apetito?
+(Respuesta): Anorexia.
+
+¿Cómo se llama el aumento excesivo del apetito?
+(Respuesta): Hiperfagia.
+
+¿Cómo se llama la sed excesiva?
+(Respuesta): Polidipsia.
+
+¿Cómo se llama la producción excesiva de orina?
+(Respuesta): Poliuria.
+
+¿Cómo se llama la disminución de la producción de orina?
+(Respuesta): Oliguria.
+
+¿Cómo se llama la ausencia de orina?
+(Respuesta): Anuria.
+
+¿Cómo se llama el latido cardíaco acelerado?
+(Respuesta): Taquicardia.
+
+¿Cómo se llama el latido cardíaco lento?
+(Respuesta): Bradicardia.
+
+¿Cómo se llama el aumento de la presión arterial?
+(Respuesta): Hipertensión.
+
+¿Cómo se llama la presión arterial baja?
+(Respuesta): Hipotensión.
+
+¿Cómo se llama el dolor al orinar?
+(Respuesta): Disuria.
+
+¿Cómo se llama el aumento de tamaño de un órgano?
+(Respuesta): Hipertrofia.
+
+¿Cómo se llama la disminución del tamaño de un órgano?
+(Respuesta): Atrofia.
+
+¿Cómo se llama la pérdida excesiva de cabello?
+(Respuesta): Alopecia.
+
+¿Cómo se llama la inflamación de la piel?
+(Respuesta): Dermatitis.
+
+¿Cómo se llama la inflamación de una articulación?
+(Respuesta): Artritis.
+
+¿Cómo se llama la inflamación de los pulmones?
+(Respuesta): Neumonía.
+
+¿Qué examen se utiliza para observar huesos mediante radiación?
+(Respuesta): Radiografía.
+
+¿Qué estudio utiliza campos magnéticos para ver órganos internos?
+(Respuesta): Resonancia magnética.
+
+¿Qué estudio utiliza rayos X y computadora para crear imágenes del cuerpo?
+(Respuesta): Tomografía computarizada.
+
+¿Qué estudio analiza la actividad eléctrica del corazón?
+(Respuesta): Electrocardiograma.
+
+¿Qué estudio analiza la actividad eléctrica del cerebro?
+(Respuesta): Electroencefalograma.
+
+¿Qué estudio usa ultrasonido para ver órganos internos?
+(Respuesta): Ecografía.
+
+¿Qué examen mide la cantidad de glóbulos en sangre?
+(Respuesta): Hemograma.
+
+¿Qué análisis mide el nivel de azúcar en sangre?
+(Respuesta): Glucemia.
+
+¿Qué análisis mide colesterol en sangre?
+(Respuesta): Perfil lipídico.
+
+¿Qué análisis mide la función del hígado?
+(Respuesta): Pruebas hepáticas.
+
+¿Qué análisis mide la función renal?
+(Respuesta): Creatinina.
+
+¿Qué prueba detecta infección urinaria?
+(Respuesta): Análisis de orina.
+
+¿Qué instrumento se usa para escuchar el corazón?
+(Respuesta): Estetoscopio.
+
+¿Qué instrumento se usa para medir la presión arterial?
+(Respuesta): Esfigmomanómetro.
+
+¿Qué instrumento mide la temperatura corporal?
+(Respuesta): Termómetro.
+
+¿Qué prueba mide el oxígeno en la sangre?
+(Respuesta): Oximetría.
+
+¿Qué prueba se usa para detectar embarazo en orina?
+(Respuesta): Test de embarazo.
+
+¿Qué prueba examina el cuello del útero para detectar cáncer?
+(Respuesta): Papanicolau.
+
+¿Qué prueba se usa para detectar cáncer de mama?
+(Respuesta): Mamografía.
+
+¿Qué prueba examina el colon con una cámara?
+(Respuesta): Colonoscopía.
+
+¿Qué prueba examina el estómago con una cámara?
+(Respuesta): Endoscopía.
+
+¿Qué prueba analiza la función pulmonar?
+(Respuesta): Espirometría.
+
+¿Qué profesional de salud atiende enfermedades del corazón?
+(Respuesta): Cardiólogo.
+
+¿Qué médico trata enfermedades del sistema nervioso?
+(Respuesta): Neurólogo.
+
+¿Qué médico trata enfermedades de la piel?
+(Respuesta): Dermatólogo.
+
+¿Qué médico trata enfermedades del sistema digestivo?
+(Respuesta): Gastroenterólogo.
+
+¿Qué médico trata enfermedades de los pulmones?
+(Respuesta): Neumólogo.
+
+¿Qué médico trata enfermedades del riñón?
+(Respuesta): Nefrólogo.
+
+¿Qué médico trata enfermedades de los huesos y articulaciones?
+(Respuesta): Traumatólogo.
+
+¿Qué médico trata enfermedades del oído, nariz y garganta?
+(Respuesta): Otorrinolaringólogo.
+
+¿Qué médico trata enfermedades de los ojos?
+(Respuesta): Oftalmólogo.
+
+¿Qué médico trata enfermedades hormonales?
+(Respuesta): Endocrinólogo.
+
+¿Qué médico trata enfermedades de la sangre?
+(Respuesta): Hematólogo.
+
+¿Qué médico trata enfermedades del sistema inmunológico?
+(Respuesta): Inmunólogo.
+
+¿Qué médico se especializa en cirugía?
+(Respuesta): Cirujano.
+
+¿Qué médico trata enfermedades de los niños?
+(Respuesta): Pediatra.
+
+¿Qué médico trata enfermedades del embarazo y sistema reproductor femenino?
+(Respuesta): Ginecólogo.
+
+¿Qué médico trata trastornos mentales?
+(Respuesta): Psiquiatra.
+
+¿Qué médico ayuda en rehabilitación física?
+(Respuesta): Fisiatra.
+
+¿Qué profesional ayuda con ejercicios terapéuticos?
+(Respuesta): Fisioterapeuta.
+
+¿Qué profesional ayuda con la alimentación?
+(Respuesta): Nutricionista.
+
+¿Qué profesional ayuda con problemas emocionales mediante terapia?
+(Respuesta): Psicólogo.
+
+¿Qué sustancia se usa para prevenir infecciones en heridas?
+(Respuesta): Antiséptico.
+
+¿Qué medicamento combate bacterias?
+(Respuesta): Antibiótico.
+
+¿Qué medicamento reduce la fiebre?
+(Respuesta): Antipirético.
+
+¿Qué medicamento reduce el dolor?
+(Respuesta): Analgésico.
+
+¿Qué medicamento reduce la inflamación?
+(Respuesta): Antiinflamatorio.
+
+¿Qué medicamento se usa contra alergias?
+(Respuesta): Antihistamínico.
+
+¿Qué medicamento disuelve coágulos de sangre?
+(Respuesta): Trombolítico.
+
+¿Qué medicamento ayuda a dormir?
+(Respuesta): Hipnótico.
+
+¿Qué medicamento reduce la presión arterial?
+(Respuesta): Antihipertensivo.
+
+¿Qué medicamento controla el azúcar en sangre?
+(Respuesta): Antidiabético.
+
+¿Qué número de emergencias se usa en muchos países para asistencia médica?
+(Respuesta): 911.
+
+¿Qué se debe hacer primero ante una persona inconsciente?
+(Respuesta): Verificar respiración y llamar a emergencias.
+
+¿Cómo se llama la técnica para reanimar a alguien que no respira?
+(Respuesta): Reanimación cardiopulmonar.
+
+¿Cuántas compresiones por minuto se recomiendan en RCP en adultos?
+(Respuesta): Aproximadamente 100 a 120.
+
+¿Qué se debe hacer ante una hemorragia fuerte?
+(Respuesta): Aplicar presión directa sobre la herida.
+
+¿Qué se debe hacer ante una quemadura leve?
+(Respuesta): Enfriar con agua fría.
+
+¿Qué se debe evitar aplicar sobre una quemadura?
+(Respuesta): Hielo directo o sustancias irritantes.
+
+¿Qué se debe hacer si alguien se está atragantando?
+(Respuesta): Maniobra de Heimlich.
+
+¿Qué se debe hacer ante una fractura sospechada?
+(Respuesta): Inmovilizar la zona.
+
+¿Qué se debe hacer ante una persona con golpe de calor?
+(Respuesta): Llevarla a un lugar fresco y darle agua.
+
+¿Qué se debe hacer ante una hipotermia?
+(Respuesta): Calentar gradualmente al paciente.
+
+¿Qué se debe hacer ante una picadura de abeja?
+(Respuesta): Retirar el aguijón y limpiar la zona.
+
+¿Qué se debe hacer ante una mordedura de animal?
+(Respuesta): Lavar la herida y buscar atención médica.
+
+¿Qué se debe hacer ante una herida profunda?
+(Respuesta): Cubrirla y acudir a un médico.
+
+¿Qué vitamina ayuda a fortalecer los huesos junto al calcio?
+(Respuesta): Vitamina D.
+
+¿Qué vitamina ayuda a la visión?
+(Respuesta): Vitamina A.
+
+¿Qué vitamina ayuda a la coagulación de la sangre?
+(Respuesta): Vitamina K.
+
+¿Qué vitamina ayuda al sistema inmunológico?
+(Respuesta): Vitamina C.
+
+¿Cuántas horas de sueño se recomiendan para adultos?
+(Respuesta): Aproximadamente 7 a 9 horas.
+
+¿Qué hábito reduce el riesgo de enfermedades cardiovasculares?
+(Respuesta): Hacer ejercicio regularmente.
+
+¿Qué hábito ayuda a prevenir infecciones?
+(Respuesta): Lavarse las manos.
+
+¿Qué sustancia del tabaco es adictiva?
+(Respuesta): Nicotina.
+
+¿Qué órgano se daña principalmente por fumar?
+(Respuesta): Los pulmones.
+
+¿Qué enfermedad pulmonar está fuertemente asociada al tabaquismo?
+(Respuesta): Cáncer de pulmón.
+
+¿Qué bebida alcohólica en exceso puede dañar el hígado?
+(Respuesta): Alcohol.
+
+¿Qué enfermedad hepática puede producir el alcohol en exceso?
+(Respuesta): Cirrosis.
+
+¿Qué tipo de dieta se considera saludable para el corazón?
+(Respuesta): Dieta rica en frutas, verduras y fibras.
+
+¿Qué tipo de grasas son más saludables para el corazón?
+(Respuesta): Grasas insaturadas.
+
+¿Qué mineral ayuda a prevenir la anemia?
+(Respuesta): Hierro.
+
+¿Qué mineral es importante para los huesos?
+(Respuesta): Calcio.
+
+¿Qué órgano regula el nivel de azúcar en sangre?
+(Respuesta): Páncreas.
+
+¿Qué actividad ayuda a reducir el estrés?
+(Respuesta): Ejercicio o relajación.
+
+¿Qué factor aumenta el riesgo de hipertensión?
+(Respuesta): Exceso de sal.
+
+¿Qué factor aumenta el riesgo de diabetes tipo 2?
+(Respuesta): Obesidad.
+
+¿Qué índice se usa para evaluar peso saludable?
+(Respuesta): Índice de masa corporal.
+
+¿Qué vacuna previene el sarampión?
+(Respuesta): Vacuna triple viral.
+
+¿Qué vacuna previene la poliomielitis?
+(Respuesta): Vacuna antipolio.
+
+¿Qué vacuna previene el tétanos?
+(Respuesta): Vacuna antitetánica.
+
+¿Qué vacuna previene la hepatitis B?
+(Respuesta): Vacuna contra hepatitis B.
+
+¿Qué vacuna previene el virus del papiloma humano?
+(Respuesta): Vacuna HPV.
+
+¿Qué vacuna previene la gripe?
+(Respuesta): Vacuna antigripal.
+
+¿Qué hábito reduce el riesgo de infecciones respiratorias?
+(Respuesta): Cubrirse al toser.
+
+¿Qué hábito reduce el riesgo de intoxicación alimentaria?
+(Respuesta): Cocinar bien los alimentos.
+
+¿Qué hábito reduce el riesgo de enfermedades digestivas?
+(Respuesta): Beber agua potable.
+
+¿Qué hábito ayuda a mantener el peso saludable?
+(Respuesta): Alimentación equilibrada.
+
+¿Qué hábito mejora la salud cardiovascular?
+(Respuesta): Actividad física regular.
+
+¿Qué bebida es esencial para la hidratación del cuerpo?
+(Respuesta): Agua.
+
+¿Qué órgano regula el equilibrio de líquidos en el cuerpo?
+(Respuesta): Riñones.
+
+¿Qué parte del cuerpo produce sudor para enfriar el organismo?
+(Respuesta): Glándulas sudoríparas.
+
+¿Qué órgano controla la temperatura corporal?
+(Respuesta): Hipotálamo.
+
+¿Qué sistema del cuerpo combate infecciones?
+(Respuesta): Sistema inmunológico.
+
+¿Qué células combaten bacterias y virus?
+(Respuesta): Glóbulos blancos.
+
+¿Qué barrera protege el cuerpo contra microorganismos?
+(Respuesta): La piel.
+
+¿Qué líquido ayuda a transportar nutrientes y oxígeno?
+(Respuesta): Sangre.
+
+¿Qué órgano ayuda a eliminar toxinas del cuerpo?
+(Respuesta): Hígado.
+
+¿Qué órgano elimina desechos a través de la orina?
+(Respuesta): Riñones.
+
+¿Qué sistema permite el movimiento del cuerpo?
+(Respuesta): Sistema muscular.
+
+¿Qué sistema da soporte estructural al cuerpo?
+(Respuesta): Sistema óseo.
+
+¿Qué sistema transporta sangre por el cuerpo?
+(Respuesta): Sistema circulatorio.
+
+¿Qué sistema permite respirar?
+(Respuesta): Sistema respiratorio.
+
+¿Qué sistema permite digerir alimentos?
+(Respuesta): Sistema digestivo.
+
+¿Qué sistema controla hormonas?
+(Respuesta): Sistema endocrino.
+
+¿Qué sistema transmite señales nerviosas?
+(Respuesta): Sistema nervioso.
+
+¿Qué sistema protege contra infecciones?
+(Respuesta): Sistema inmunológico.
+
+¿Qué órgano controla el pensamiento y la memoria?
+(Respuesta): Cerebro.
+
+¿Qué órgano permite ver?
+(Respuesta): Ojos.
+
+¿Qué órgano permite escuchar?
+(Respuesta): Oídos.
+
+¿Qué órgano permite oler?
+(Respuesta): Nariz.
+
+¿Qué órgano permite saborear alimentos?
+(Respuesta): Lengua.
+
+¿Qué músculo permite respirar?
+(Respuesta): Diafragma.
+
+¿Qué órgano bombea sangre?
+(Respuesta): Corazón.
+
+¿Qué vasos llevan sangre al corazón?
+(Respuesta): Venas.
+
+¿Qué vasos llevan sangre desde el corazón?
+(Respuesta): Arterias.
+
+¿Qué vasos permiten intercambio de nutrientes?
+(Respuesta): Capilares.
+
+¿Qué órgano filtra sangre para producir orina?
+(Respuesta): Riñones.
+
+¿Qué órgano absorbe nutrientes?
+(Respuesta): Intestino delgado.
+
+¿Qué órgano absorbe agua en la digestión?
+(Respuesta): Intestino grueso.
+
+¿Qué órgano produce bilis?
+(Respuesta): Hígado.
+
+¿Qué órgano almacena bilis?
+(Respuesta): Vesícula biliar.
+
+¿Qué órgano produce insulina?
+(Respuesta): Páncreas.
+
+¿Cómo se llama la inflamación del hígado?
+(Respuesta): Hepatitis.
+
+¿Cómo se llama la inflamación del estómago?
+(Respuesta): Gastritis.
+
+¿Cómo se llama la inflamación del intestino?
+(Respuesta): Enteritis.
+
+¿Cómo se llama la inflamación del colon?
+(Respuesta): Colitis.
+
+¿Cómo se llama la inflamación de los pulmones?
+(Respuesta): Neumonía.
+
+¿Cómo se llama la inflamación del oído?
+(Respuesta): Otitis.
+
+¿Cómo se llama la inflamación de la garganta?
+(Respuesta): Faringitis.
+
+¿Cómo se llama la inflamación de las amígdalas?
+(Respuesta): Amigdalitis.
+
+¿Cómo se llama la inflamación de la piel?
+(Respuesta): Dermatitis.
+
+¿Cómo se llama la inflamación de las articulaciones?
+(Respuesta): Artritis.
+
+¿Cómo se llama la inflamación del corazón?
+(Respuesta): Miocarditis.
+
+¿Cómo se llama la inflamación del cerebro?
+(Respuesta): Encefalitis.
+
+¿Cómo se llama la inflamación de las meninges?
+(Respuesta): Meningitis.
+
+¿Cómo se llama la inflamación del páncreas?
+(Respuesta): Pancreatitis.
+
+¿Cómo se llama la inflamación de la vejiga?
+(Respuesta): Cistitis.
+
+¿Cómo se llama la inflamación del riñón?
+(Respuesta): Nefritis.
+
+¿Cómo se llama la inflamación del hígado por alcohol?
+(Respuesta): Hepatitis alcohólica.
+
+¿Cómo se llama la inflamación del peritoneo?
+(Respuesta): Peritonitis.
+
+¿Cómo se llama la inflamación de los bronquios?
+(Respuesta): Bronquitis.
+
+¿Cómo se llama la inflamación del apéndice?
+(Respuesta): Apendicitis.
+
+¿Qué enfermedad se caracteriza por aumento de glucosa en sangre?
+(Respuesta): Diabetes.
+
+¿Qué enfermedad se caracteriza por presión arterial alta?
+(Respuesta): Hipertensión.
+
+¿Qué enfermedad se produce por pérdida de masa ósea?
+(Respuesta): Osteoporosis.
+
+¿Qué enfermedad afecta la memoria en adultos mayores?
+(Respuesta): Alzheimer.
+
+¿Qué enfermedad produce temblores y rigidez muscular?
+(Respuesta): Parkinson.
+
+¿Qué enfermedad se produce por exceso de ácido úrico?
+(Respuesta): Gota.
+
+¿Qué enfermedad afecta los pulmones y dificulta la respiración?
+(Respuesta): Asma.
+
+¿Qué enfermedad produce inflamación crónica de las vías respiratorias?
+(Respuesta): EPOC.
+
+¿Qué enfermedad se produce por infección bacteriana en pulmones?
+(Respuesta): Tuberculosis.
+
+¿Qué enfermedad viral produce ampollas en la piel en niños?
+(Respuesta): Varicela.
+
+¿Qué enfermedad viral produce manchas rojas y fiebre?
+(Respuesta): Sarampión.
+
+¿Qué enfermedad viral inflama las glándulas salivales?
+(Respuesta): Paperas.
+
+¿Qué enfermedad viral produce fiebre y dolor muscular transmitida por mosquitos?
+(Respuesta): Dengue.
+
+¿Qué enfermedad viral afecta el hígado y puede transmitirse por sangre?
+(Respuesta): Hepatitis B.
+
+¿Qué enfermedad viral afecta el hígado y se transmite por agua contaminada?
+(Respuesta): Hepatitis A.
+
+¿Qué enfermedad viral afecta el sistema inmunológico?
+(Respuesta): VIH.
+
+¿Qué enfermedad de transmisión sexual produce úlceras genitales?
+(Respuesta): Sífilis.
+
+¿Qué enfermedad de transmisión sexual produce secreción genital?
+(Respuesta): Gonorrea.
+
+¿Qué virus puede producir verrugas genitales y cáncer cervical?
+(Respuesta): Virus del papiloma humano.
+
+¿Qué enfermedad intestinal se produce por intolerancia al gluten?
+(Respuesta): Enfermedad celíaca.
+
+¿Qué órgano del cuerpo produce hormonas?
+(Respuesta): Glándulas endocrinas.
+
+¿Qué glándula regula el metabolismo?
+(Respuesta): Tiroides.
+
+¿Qué glándula regula muchas hormonas del cuerpo?
+(Respuesta): Hipófisis.
+
+¿Qué órgano produce adrenalina?
+(Respuesta): Glándulas suprarrenales.
+
+¿Qué órgano produce bilis?
+(Respuesta): Hígado.
+
+¿Qué órgano produce insulina?
+(Respuesta): Páncreas.
+
+¿Qué órgano bombea sangre?
+(Respuesta): Corazón.
+
+¿Qué órgano filtra sangre para producir orina?
+(Respuesta): Riñones.
+
+¿Qué órgano absorbe nutrientes?
+(Respuesta): Intestino delgado.
+
+¿Qué órgano absorbe agua en la digestión?
+(Respuesta): Intestino grueso.
+
+¿Qué órgano protege el cuerpo y regula temperatura?
+(Respuesta): Piel.
+
+¿Qué órgano controla el pensamiento?
+(Respuesta): Cerebro.
+
+¿Qué órgano permite ver?
+(Respuesta): Ojo.
+
+¿Qué órgano permite oír?
+(Respuesta): Oído.
+
+¿Qué órgano permite oler?
+(Respuesta): Nariz.
+
+¿Qué órgano permite saborear alimentos?
+(Respuesta): Lengua.
+
+¿Qué músculo permite respirar?
+(Respuesta): Diafragma.
+
+¿Cuántas cavidades tiene el corazón?
+(Respuesta): Cuatro.
+
+¿Cuál es el hueso más largo del cuerpo humano?
+(Respuesta): Fémur.
+
+¿Cuántos huesos tiene el cuerpo humano adulto aproximadamente?
+(Respuesta): 206.
+
+¿Cuál es el órgano más grande del cuerpo humano?
+(Respuesta): La piel.
+
+¿Qué células transportan oxígeno en la sangre?
+(Respuesta): Glóbulos rojos.
+
+¿Qué células combaten infecciones?
+(Respuesta): Glóbulos blancos.
+
+¿Qué componente de la sangre ayuda a coagular?
+(Respuesta): Plaquetas.
+
+¿Qué pigmento da color rojo a la sangre?
+(Respuesta): Hemoglobina.
+
+¿Qué líquido transporta nutrientes por el cuerpo?
+(Respuesta): Sangre.
+
+¿Qué gas necesitan las células para producir energía?
+(Respuesta): Oxígeno.
+
+¿Qué gas eliminan los pulmones al respirar?
+(Respuesta): Dióxido de carbono.
+
+¿Qué órgano regula el equilibrio de líquidos?
+(Respuesta): Riñones.
+
+¿Qué órgano almacena la bilis?
+(Respuesta): Vesícula biliar.
+
+¿Qué estructura conecta boca con estómago?
+(Respuesta): Esófago.
+
+¿Qué órgano mezcla alimentos con jugos digestivos?
+(Respuesta): Estómago.
+
+¿Qué órgano produce enzimas digestivas?
+(Respuesta): Páncreas.
+
+¿Qué sistema transporta sangre?
+(Respuesta): Sistema circulatorio.
+
+¿Qué sistema permite respirar?
+(Respuesta): Sistema respiratorio.
+
+¿Qué sistema digiere alimentos?
+(Respuesta): Sistema digestivo.
+
+¿Qué sistema controla hormonas?
+(Respuesta): Sistema endocrino.
+
+¿Qué sistema transmite señales nerviosas?
+(Respuesta): Sistema nervioso.
+
+¿Qué sistema permite el movimiento?
+(Respuesta): Sistema muscular.
+
+¿Qué sistema da soporte al cuerpo?
+(Respuesta): Sistema óseo.
+
+¿Qué sistema combate infecciones?
+(Respuesta): Sistema inmunológico.

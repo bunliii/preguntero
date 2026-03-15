@@ -26,6 +26,7 @@ archivos_categorias = {
     "Medicina": "preguntas_medicina.txt",
     "Historia": "preguntas_historia.txt",
     "Literatura": "preguntas_literatura.txt",
+    "Geografia": "preguntas_geografia.txt",
 }
 
 st.title("Preguntas aleatorias")

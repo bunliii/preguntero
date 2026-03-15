@@ -1,0 +1,908 @@
+¿Quién escribió "Don Quijote de la Mancha"?
+(Respuesta): Miguel de Cervantes.
+
+¿Cómo se llama el verdadero nombre de Don Quijote?
+(Respuesta): Alonso Quijano.
+
+¿Quién escribió "Frankenstein"?
+(Respuesta): Mary Shelley.
+
+¿Quién escribió "Romeo y Julieta"?
+(Respuesta): William Shakespeare.
+
+¿Quién escribió "Hamlet"?
+(Respuesta): William Shakespeare.
+
+¿Quién escribió "La Odisea"?
+(Respuesta): Homero.
+
+¿Quién escribió "La Ilíada"?
+(Respuesta): Homero.
+
+¿Quién escribió "Cien años de soledad"?
+(Respuesta): Gabriel García Márquez.
+
+¿Quién escribió "El amor en los tiempos del cólera"?
+(Respuesta): Gabriel García Márquez.
+
+¿Quién escribió "Crimen y castigo"?
+(Respuesta): Fiódor Dostoyevski.
+
+¿Quién escribió "Los hermanos Karamazov"?
+(Respuesta): Fiódor Dostoyevski.
+
+¿Quién escribió "Guerra y paz"?
+(Respuesta): León Tolstói.
+
+¿Quién escribió "Anna Karenina"?
+(Respuesta): León Tolstói.
+
+¿Quién escribió "Madame Bovary"?
+(Respuesta): Gustave Flaubert.
+
+¿Quién escribió "El proceso"?
+(Respuesta): Franz Kafka.
+
+¿Quién escribió "La metamorfosis"?
+(Respuesta): Franz Kafka.
+
+¿Quién escribió "1984"?
+(Respuesta): George Orwell.
+
+¿Quién escribió "Rebelión en la granja"?
+(Respuesta): George Orwell.
+
+¿Quién escribió "El gran Gatsby"?
+(Respuesta): F. Scott Fitzgerald.
+
+¿Quién escribió "Moby Dick"?
+(Respuesta): Herman Melville.
+
+¿Quién escribió "Drácula"?
+(Respuesta): Bram Stoker.
+
+¿Quién escribió "El retrato de Dorian Gray"?
+(Respuesta): Oscar Wilde.
+
+¿Quién escribió "Orgullo y prejuicio"?
+(Respuesta): Jane Austen.
+
+¿Quién escribió "Emma"?
+(Respuesta): Jane Austen.
+
+¿Quién escribió "Jane Eyre"?
+(Respuesta): Charlotte Brontë.
+
+¿Quién escribió "Cumbres borrascosas"?
+(Respuesta): Emily Brontë.
+
+¿Quién escribió "Alicia en el país de las maravillas"?
+(Respuesta): Lewis Carroll.
+
+¿Quién escribió "El principito"?
+(Respuesta): Antoine de Saint-Exupéry.
+
+¿Quién escribió "La divina comedia"?
+(Respuesta): Dante Alighieri.
+
+¿Quién escribió "El nombre de la rosa"?
+(Respuesta): Umberto Eco.
+
+¿Quién escribió "Rayuela"?
+(Respuesta): Julio Cortázar.
+
+¿Quién escribió "La casa de los espíritus"?
+(Respuesta): Isabel Allende.
+
+¿Quién escribió "Pedro Páramo"?
+(Respuesta): Juan Rulfo.
+
+¿Quién escribió "El túnel"?
+(Respuesta): Ernesto Sabato.
+
+¿Quién escribió "Ficciones"?
+(Respuesta): Jorge Luis Borges.
+
+¿Quién escribió "El Aleph"?
+(Respuesta): Jorge Luis Borges.
+
+¿Quién escribió "La ciudad y los perros"?
+(Respuesta): Mario Vargas Llosa.
+
+¿Quién escribió "La fiesta del chivo"?
+(Respuesta): Mario Vargas Llosa.
+
+¿Quién escribió "El viejo y el mar"?
+(Respuesta): Ernest Hemingway.
+
+¿Quién escribió "Por quién doblan las campanas"?
+(Respuesta): Ernest Hemingway.
+
+¿Quién escribió "Las aventuras de Tom Sawyer"?
+(Respuesta): Mark Twain.
+
+¿Quién escribió "Las aventuras de Huckleberry Finn"?
+(Respuesta): Mark Twain.
+
+¿Quién escribió "Viaje al centro de la Tierra"?
+(Respuesta): Julio Verne.
+
+¿Quién escribió "Veinte mil leguas de viaje submarino"?
+(Respuesta): Julio Verne.
+
+¿Quién escribió "La isla misteriosa"?
+(Respuesta): Julio Verne.
+
+¿Quién escribió "Los miserables"?
+(Respuesta): Victor Hugo.
+
+¿Quién escribió "Notre Dame de París"?
+(Respuesta): Victor Hugo.
+
+¿Quién escribió "El conde de Montecristo"?
+(Respuesta): Alejandro Dumas.
+
+¿Quién escribió "Los tres mosqueteros"?
+(Respuesta): Alejandro Dumas.
+
+¿Quién escribió "El guardián entre el centeno"?
+(Respuesta): J. D. Salinger.
+
+¿Quién escribió "Lolita"?
+(Respuesta): Vladimir Nabokov.
+
+¿Quién escribió "El señor de los anillos"?
+(Respuesta): J. R. R. Tolkien.
+
+¿Quién escribió "El hobbit"?
+(Respuesta): J. R. R. Tolkien.
+
+¿Quién escribió "Harry Potter"?
+(Respuesta): J. K. Rowling.
+
+¿Quién escribió "Los juegos del hambre"?
+(Respuesta): Suzanne Collins.
+
+¿Quién escribió "El código Da Vinci"?
+(Respuesta): Dan Brown.
+
+¿Quién escribió "Ángeles y demonios"?
+(Respuesta): Dan Brown.
+
+¿Quién escribió "La naranja mecánica"?
+(Respuesta): Anthony Burgess.
+
+¿Quién escribió "Fahrenheit 451"?
+(Respuesta): Ray Bradbury.
+
+¿Quién escribió "Dune"?
+(Respuesta): Frank Herbert.
+
+¿Quién escribió "El silencio de los corderos"?
+(Respuesta): Thomas Harris.
+
+¿Quién escribió "La historia interminable"?
+(Respuesta): Michael Ende.
+
+¿Quién escribió "El perfume"?
+(Respuesta): Patrick Süskind.
+
+¿Quién escribió "El psicoanalista"?
+(Respuesta): John Katzenbach.
+
+¿Quién escribió "El alquimista"?
+(Respuesta): Paulo Coelho.
+
+¿Quién escribió "Ensayo sobre la ceguera"?
+(Respuesta): José Saramago.
+
+¿Quién escribió "La sombra del viento"?
+(Respuesta): Carlos Ruiz Zafón.
+
+¿Quién escribió "La tregua"?
+(Respuesta): Mario Benedetti.
+
+¿Quién escribió "Veinte poemas de amor y una canción desesperada"?
+(Respuesta): Pablo Neruda.
+
+¿Quién escribió "Martín Fierro"?
+(Respuesta): José Hernández.
+
+¿Quién escribió "El matadero"?
+(Respuesta): Esteban Echeverría.
+
+¿Quién escribió "Facundo"?
+(Respuesta): Domingo Faustino Sarmiento.
+
+¿Quién escribió "El juguete rabioso"?
+(Respuesta): Roberto Arlt.
+
+¿Quién escribió "Sobre héroes y tumbas"?
+(Respuesta): Ernesto Sabato.
+
+¿Quién escribió "La invención de Morel"?
+(Respuesta): Adolfo Bioy Casares.
+
+¿Quién escribió "El llano en llamas"?
+(Respuesta): Juan Rulfo.
+
+¿Quién escribió "Como agua para chocolate"?
+(Respuesta): Laura Esquivel.
+
+¿Quién escribió "La colmena"?
+(Respuesta): Camilo José Cela.
+
+¿Quién escribió "Don Juan Tenorio"?
+(Respuesta): José Zorrilla.
+
+¿Quién escribió "Fuenteovejuna"?
+(Respuesta): Lope de Vega.
+
+¿Quién escribió "La vida es sueño"?
+(Respuesta): Pedro Calderón de la Barca.
+
+¿Quién escribió "El lazarillo de Tormes"?
+(Respuesta): Autor anónimo.
+
+¿Quién escribió "La Celestina"?
+(Respuesta): Fernando de Rojas.
+
+¿Quién escribió "El cantar del Mio Cid"?
+(Respuesta): Autor anónimo.
+
+¿Quién escribió "Las mil y una noches"?
+(Respuesta): Autor anónimo.
+
+¿Quién escribió "La Eneida"?
+(Respuesta): Virgilio.
+
+¿Quién escribió "Edipo Rey"?
+(Respuesta): Sófocles.
+
+¿Quién escribió "Antígona"?
+(Respuesta): Sófocles.
+
+¿Quién escribió "Prometeo encadenado"?
+(Respuesta): Esquilo.
+
+¿Quién escribió "Lisístrata"?
+(Respuesta): Aristófanes.
+
+¿Quién escribió "Ulises"?
+(Respuesta): James Joyce.
+
+¿Quién escribió "En busca del tiempo perdido"?
+(Respuesta): Marcel Proust.
+
+¿Quién escribió "La náusea"?
+(Respuesta): Jean-Paul Sartre.
+
+¿Quién escribió "El extranjero"?
+(Respuesta): Albert Camus.
+
+¿Quién escribió "La peste"?
+(Respuesta): Albert Camus.
+
+¿Quién escribió "La montaña mágica"?
+(Respuesta): Thomas Mann.
+
+¿Quién escribió "Doctor Faustus"?
+(Respuesta): Thomas Mann.
+
+¿Quién escribió "La condición humana"?
+(Respuesta): André Malraux.
+
+¿Quién escribió "El ruido y la furia"?
+(Respuesta): William Faulkner.
+
+¿Quién escribió "Mientras agonizo"?
+(Respuesta): William Faulkner.
+
+¿Quién escribió "Trópico de Cáncer"?
+(Respuesta): Henry Miller.
+
+¿Quién escribió "El tambor de hojalata"?
+(Respuesta): Günter Grass.
+
+¿Quién escribió "El castillo"?
+(Respuesta): Franz Kafka.
+
+¿Quién escribió "Las uvas de la ira"?
+(Respuesta): John Steinbeck.
+
+¿Quién escribió "De ratones y hombres"?
+(Respuesta): John Steinbeck.
+
+¿Quién escribió "El talento de Mr. Ripley"?
+(Respuesta): Patricia Highsmith.
+
+¿Quién escribió "Psicosis"?
+(Respuesta): Robert Bloch.
+
+¿Quién escribió "Carrie"?
+(Respuesta): Stephen King.
+
+¿Quién escribió "It"?
+(Respuesta): Stephen King.
+
+¿Quién escribió "El resplandor"?
+(Respuesta): Stephen King.
+
+¿Quién escribió "Misery"?
+(Respuesta): Stephen King.
+
+¿Quién escribió "El juego de Ender"?
+(Respuesta): Orson Scott Card.
+
+¿Quién escribió "Fundación"?
+(Respuesta): Isaac Asimov.
+
+¿Quién escribió "Yo, robot"?
+(Respuesta): Isaac Asimov.
+
+¿Quién escribió "Don Quijote de la Mancha"?
+(Respuesta): Miguel de Cervantes.
+
+¿Cómo se llama el verdadero nombre de Don Quijote?
+(Respuesta): Alonso Quijano.
+
+¿Quién es el escudero de Don Quijote?
+(Respuesta): Sancho Panza.
+
+¿En qué año se publicó la primera parte de Don Quijote?
+(Respuesta): 1605.
+
+¿Quién escribió "Frankenstein"?
+(Respuesta): Mary Shelley.
+
+¿Cómo se llama el científico protagonista de Frankenstein?
+(Respuesta): Víctor Frankenstein.
+
+¿En qué año se publicó "Frankenstein"?
+(Respuesta): 1818.
+
+¿Quién escribió "Drácula"?
+(Respuesta): Bram Stoker.
+
+¿En qué año se publicó "Drácula"?
+(Respuesta): 1897.
+
+¿En qué país se desarrolla gran parte de "Drácula"?
+(Respuesta): Transilvania.
+
+¿Quién escribió "El retrato de Dorian Gray"?
+(Respuesta): Oscar Wilde.
+
+¿Cómo se llama el protagonista de "El retrato de Dorian Gray"?
+(Respuesta): Dorian Gray.
+
+¿Quién escribió "1984"?
+(Respuesta): George Orwell.
+
+¿Cómo se llama el protagonista de "1984"?
+(Respuesta): Winston Smith.
+
+¿En qué año se publicó "1984"?
+(Respuesta): 1949.
+
+¿Quién escribió "Rebelión en la granja"?
+(Respuesta): George Orwell.
+
+¿Cómo se llama el cerdo líder en "Rebelión en la granja"?
+(Respuesta): Napoleón.
+
+¿Quién escribió "El gran Gatsby"?
+(Respuesta): F. Scott Fitzgerald.
+
+¿Cómo se llama el protagonista de "El gran Gatsby"?
+(Respuesta): Jay Gatsby.
+
+¿En qué año se publicó "El gran Gatsby"?
+(Respuesta): 1925.
+
+¿Quién escribió "Moby Dick"?
+(Respuesta): Herman Melville.
+
+¿Cómo se llama el capitán obsesionado con la ballena blanca?
+(Respuesta): Capitán Ahab.
+
+¿Cómo se llama el narrador de "Moby Dick"?
+(Respuesta): Ismael.
+
+¿En qué año se publicó "Moby Dick"?
+(Respuesta): 1851.
+
+¿Quién escribió "Orgullo y prejuicio"?
+(Respuesta): Jane Austen.
+
+¿Cómo se llama la protagonista femenina de "Orgullo y prejuicio"?
+(Respuesta): Elizabeth Bennet.
+
+¿Cómo se llama el protagonista masculino de "Orgullo y prejuicio"?
+(Respuesta): Mr. Darcy.
+
+¿En qué año se publicó "Orgullo y prejuicio"?
+(Respuesta): 1813.
+
+¿Quién escribió "Cumbres borrascosas"?
+(Respuesta): Emily Brontë.
+
+¿Cómo se llama el personaje masculino principal de "Cumbres borrascosas"?
+(Respuesta): Heathcliff.
+
+¿Quién escribió "Jane Eyre"?
+(Respuesta): Charlotte Brontë.
+
+¿Cómo se llama la protagonista de "Jane Eyre"?
+(Respuesta): Jane Eyre.
+
+¿Quién escribió "La Odisea"?
+(Respuesta): Homero.
+
+¿Cómo se llama el héroe de "La Odisea"?
+(Respuesta): Odiseo (Ulises).
+
+¿Quién escribió "La Ilíada"?
+(Respuesta): Homero.
+
+¿Quién es el gran héroe griego en "La Ilíada"?
+(Respuesta): Aquiles.
+
+¿Quién escribió "La divina comedia"?
+(Respuesta): Dante Alighieri.
+
+¿Cómo se llaman las tres partes de "La divina comedia"?
+(Respuesta): Infierno, Purgatorio y Paraíso.
+
+¿Quién guía a Dante en el Infierno?
+(Respuesta): Virgilio.
+
+¿Quién escribió "Rayuela"?
+(Respuesta): Julio Cortázar.
+
+¿En qué año se publicó "Rayuela"?
+(Respuesta): 1963.
+
+¿Cómo se llama el protagonista de "Rayuela"?
+(Respuesta): Horacio Oliveira.
+
+¿Quién escribió "Cien años de soledad"?
+(Respuesta): Gabriel García Márquez.
+
+¿En qué año se publicó "Cien años de soledad"?
+(Respuesta): 1967.
+
+¿Cómo se llama el pueblo ficticio donde ocurre la novela?
+(Respuesta): Macondo.
+
+¿Cómo se llama la familia central de la novela?
+(Respuesta): Buendía.
+
+¿Quién escribió "El amor en los tiempos del cólera"?
+(Respuesta): Gabriel García Márquez.
+
+¿Cómo se llama el protagonista masculino de esa novela?
+(Respuesta): Florentino Ariza.
+
+¿Quién escribió "Pedro Páramo"?
+(Respuesta): Juan Rulfo.
+
+¿Cómo se llama el protagonista que busca a su padre?
+(Respuesta): Juan Preciado.
+
+¿Quién escribió "Ficciones"?
+(Respuesta): Jorge Luis Borges.
+
+¿Quién escribió "El Aleph"?
+(Respuesta): Jorge Luis Borges.
+
+¿Quién escribió "El túnel"?
+(Respuesta): Ernesto Sabato.
+
+¿Cómo se llama el protagonista de "El túnel"?
+(Respuesta): Juan Pablo Castel.
+
+¿Quién escribió "El señor de los anillos"?
+(Respuesta): J. R. R. Tolkien.
+
+¿Cómo se llama el protagonista principal de la trilogía?
+(Respuesta): Frodo Bolsón.
+
+¿Cómo se llama el objeto que debe destruir Frodo?
+(Respuesta): El Anillo Único.
+
+¿En qué año se publicó "El señor de los anillos"?
+(Respuesta): 1954.
+
+¿Quién escribió "El hobbit"?
+(Respuesta): J. R. R. Tolkien.
+
+¿Cómo se llama el protagonista de "El hobbit"?
+(Respuesta): Bilbo Bolsón.
+
+¿Quién escribió "Harry Potter"?
+(Respuesta): J. K. Rowling.
+
+¿Cómo se llama el colegio de magia en Harry Potter?
+(Respuesta): Hogwarts.
+
+¿Cómo se llama el mejor amigo de Harry Potter?
+(Respuesta): Ron Weasley.
+
+¿Cómo se llama la amiga de Harry Potter que es muy inteligente?
+(Respuesta): Hermione Granger.
+
+¿Quién escribió "Fundación"?
+(Respuesta): Isaac Asimov.
+
+¿En qué año se publicó "Fundación"?
+(Respuesta): 1951.
+
+¿Quién escribió "Yo, robot"?
+(Respuesta): Isaac Asimov.
+
+¿Qué ciencia ficticia inventó Asimov en "Fundación"?
+(Respuesta): La psicohistoria.
+
+¿Quién escribió "El viejo y el mar"?
+(Respuesta): Ernest Hemingway.
+
+¿Cómo se llama el pescador protagonista?
+(Respuesta): Santiago.
+
+¿En qué año se publicó "El viejo y el mar"?
+(Respuesta): 1952.
+
+¿Quién escribió "Fahrenheit 451"?
+(Respuesta): Ray Bradbury.
+
+¿Qué trabajo tiene el protagonista de "Fahrenheit 451"?
+(Respuesta): Bombero que quema libros.
+
+¿Quién escribió "Dune"?
+(Respuesta): Frank Herbert.
+
+¿Cómo se llama el protagonista de "Dune"?
+(Respuesta): Paul Atreides.
+
+¿En qué planeta ocurre gran parte de "Dune"?
+(Respuesta): Arrakis.
+
+¿Quién escribió "El principito"?
+(Respuesta): Antoine de Saint-Exupéry.
+
+¿En qué año se publicó "El principito"?
+(Respuesta): 1943.
+
+¿De qué planeta viene el principito?
+(Respuesta): Asteroide B-612.
+
+¿Quién escribió "Don Quijote de la Mancha"?
+(Respuesta): Miguel de Cervantes.
+
+¿Cómo se llama el verdadero nombre de Don Quijote?
+(Respuesta): Alonso Quijano.
+
+¿Cómo se llama el escudero de Don Quijote?
+(Respuesta): Sancho Panza.
+
+¿En qué año se publicó la primera parte de Don Quijote?
+(Respuesta): 1605.
+
+¿Quién escribió "Frankenstein"?
+(Respuesta): Mary Shelley.
+
+¿Cómo se llama el científico protagonista de Frankenstein?
+(Respuesta): Víctor Frankenstein.
+
+¿En qué año se publicó "Frankenstein"?
+(Respuesta): 1818.
+
+¿Quién escribió "Drácula"?
+(Respuesta): Bram Stoker.
+
+¿En qué año se publicó "Drácula"?
+(Respuesta): 1897.
+
+¿En qué región vive el Conde Drácula?
+(Respuesta): Transilvania.
+
+¿Quién escribió "El retrato de Dorian Gray"?
+(Respuesta): Oscar Wilde.
+
+¿Cómo se llama el protagonista de esa novela?
+(Respuesta): Dorian Gray.
+
+¿Quién escribió "1984"?
+(Respuesta): George Orwell.
+
+¿Cómo se llama el protagonista de "1984"?
+(Respuesta): Winston Smith.
+
+¿En qué año se publicó "1984"?
+(Respuesta): 1949.
+
+¿Quién escribió "Rebelión en la granja"?
+(Respuesta): George Orwell.
+
+¿Cómo se llama el cerdo líder de la granja?
+(Respuesta): Napoleón.
+
+¿Quién escribió "El gran Gatsby"?
+(Respuesta): F. Scott Fitzgerald.
+
+¿Cómo se llama el protagonista de "El gran Gatsby"?
+(Respuesta): Jay Gatsby.
+
+¿En qué año se publicó "El gran Gatsby"?
+(Respuesta): 1925.
+
+¿Quién escribió "Moby Dick"?
+(Respuesta): Herman Melville.
+
+¿Cómo se llama el capitán obsesionado con la ballena blanca?
+(Respuesta): Capitán Ahab.
+
+¿Cómo se llama el narrador de "Moby Dick"?
+(Respuesta): Ismael.
+
+¿En qué año se publicó "Moby Dick"?
+(Respuesta): 1851.
+
+¿Quién escribió "Orgullo y prejuicio"?
+(Respuesta): Jane Austen.
+
+¿Cómo se llama la protagonista femenina?
+(Respuesta): Elizabeth Bennet.
+
+¿Cómo se llama el personaje masculino principal?
+(Respuesta): Mr. Darcy.
+
+¿En qué año se publicó "Orgullo y prejuicio"?
+(Respuesta): 1813.
+
+¿Quién escribió "Cumbres borrascosas"?
+(Respuesta): Emily Brontë.
+
+¿Cómo se llama el protagonista masculino de esa novela?
+(Respuesta): Heathcliff.
+
+¿Quién escribió "Jane Eyre"?
+(Respuesta): Charlotte Brontë.
+
+¿Cómo se llama la protagonista de "Jane Eyre"?
+(Respuesta): Jane Eyre.
+
+¿Quién escribió "La Odisea"?
+(Respuesta): Homero.
+
+¿Cómo se llama el héroe de "La Odisea"?
+(Respuesta): Odiseo.
+
+¿Quién escribió "La Ilíada"?
+(Respuesta): Homero.
+
+¿Quién es el gran héroe griego en "La Ilíada"?
+(Respuesta): Aquiles.
+
+¿Quién escribió "La divina comedia"?
+(Respuesta): Dante Alighieri.
+
+¿Cómo se llaman las tres partes de la obra?
+(Respuesta): Infierno, Purgatorio y Paraíso.
+
+¿Quién guía a Dante en el Infierno?
+(Respuesta): Virgilio.
+
+¿Quién escribió "Rayuela"?
+(Respuesta): Julio Cortázar.
+
+¿En qué año se publicó "Rayuela"?
+(Respuesta): 1963.
+
+¿Cómo se llama el protagonista de "Rayuela"?
+(Respuesta): Horacio Oliveira.
+
+¿Quién escribió "Cien años de soledad"?
+(Respuesta): Gabriel García Márquez.
+
+¿En qué año se publicó "Cien años de soledad"?
+(Respuesta): 1967.
+
+¿Cómo se llama el pueblo ficticio de la novela?
+(Respuesta): Macondo.
+
+¿Cómo se llama la familia central de la novela?
+(Respuesta): Buendía.
+
+¿Quién escribió "Pedro Páramo"?
+(Respuesta): Juan Rulfo.
+
+¿Cómo se llama el protagonista que busca a su padre?
+(Respuesta): Juan Preciado.
+
+¿Quién escribió "El túnel"?
+(Respuesta): Ernesto Sabato.
+
+¿Cómo se llama el protagonista de esa novela?
+(Respuesta): Juan Pablo Castel.
+
+¿Quién escribió "El señor de los anillos"?
+(Respuesta): J. R. R. Tolkien.
+
+¿Cómo se llama el protagonista principal de la saga?
+(Respuesta): Frodo Bolsón.
+
+¿Cómo se llama el mago que ayuda a Frodo?
+(Respuesta): Gandalf.
+
+¿Cómo se llama el objeto que deben destruir?
+(Respuesta): El Anillo Único.
+
+¿Quién escribió "El hobbit"?
+(Respuesta): J. R. R. Tolkien.
+
+¿Cómo se llama el protagonista de "El hobbit"?
+(Respuesta): Bilbo Bolsón.
+
+¿Quién escribió "Harry Potter"?
+(Respuesta): J. K. Rowling.
+
+¿Cómo se llama el colegio de magia?
+(Respuesta): Hogwarts.
+
+¿Cómo se llama el mejor amigo de Harry?
+(Respuesta): Ron Weasley.
+
+¿Cómo se llama la amiga más inteligente de Harry?
+(Respuesta): Hermione Granger.
+
+¿Cómo se llama el enemigo principal de Harry Potter?
+(Respuesta): Lord Voldemort.
+
+¿Quién escribió "Fundación"?
+(Respuesta): Isaac Asimov.
+
+¿En qué año se publicó "Fundación"?
+(Respuesta): 1951.
+
+¿Quién escribió "Yo, robot"?
+(Respuesta): Isaac Asimov.
+
+¿Cómo se llaman las famosas reglas de los robots?
+(Respuesta): Las tres leyes de la robótica.
+
+¿Quién escribió "El viejo y el mar"?
+(Respuesta): Ernest Hemingway.
+
+¿Cómo se llama el pescador protagonista?
+(Respuesta): Santiago.
+
+¿En qué año se publicó "El viejo y el mar"?
+(Respuesta): 1952.
+
+¿Quién escribió "Fahrenheit 451"?
+(Respuesta): Ray Bradbury.
+
+¿Qué hacen los bomberos en esa novela?
+(Respuesta): Queman libros.
+
+¿Quién escribió "Dune"?
+(Respuesta): Frank Herbert.
+
+¿Cómo se llama el protagonista de "Dune"?
+(Respuesta): Paul Atreides.
+
+¿En qué planeta ocurre la historia?
+(Respuesta): Arrakis.
+
+¿Quién escribió "El principito"?
+(Respuesta): Antoine de Saint-Exupéry.
+
+¿En qué año se publicó "El principito"?
+(Respuesta): 1943.
+
+¿De qué planeta viene el principito?
+(Respuesta): Asteroide B-612.
+
+¿Quién escribió "Las aventuras de Tom Sawyer"?
+(Respuesta): Mark Twain.
+
+¿Cómo se llama el amigo de Tom Sawyer?
+(Respuesta): Huckleberry Finn.
+
+¿Quién escribió "Las aventuras de Huckleberry Finn"?
+(Respuesta): Mark Twain.
+
+¿Quién escribió "La isla del tesoro"?
+(Respuesta): Robert Louis Stevenson.
+
+¿Cómo se llama el famoso pirata de esa novela?
+(Respuesta): Long John Silver.
+
+¿Quién escribió "Los miserables"?
+(Respuesta): Victor Hugo.
+
+¿Cómo se llama el protagonista principal?
+(Respuesta): Jean Valjean.
+
+¿Quién persigue constantemente a Jean Valjean?
+(Respuesta): Javert.
+
+¿Quién escribió "El conde de Montecristo"?
+(Respuesta): Alejandro Dumas.
+
+¿Cómo se llama el protagonista antes de convertirse en conde?
+(Respuesta): Edmond Dantès.
+
+¿Quién escribió "Los tres mosqueteros"?
+(Respuesta): Alejandro Dumas.
+
+¿Cómo se llaman los tres mosqueteros?
+(Respuesta): Athos, Porthos y Aramis.
+
+¿Cómo se llama el cuarto compañero?
+(Respuesta): D'Artagnan.
+
+¿Quién escribió "La metamorfosis"?
+(Respuesta): Franz Kafka.
+
+¿Cómo se llama el protagonista que se transforma en insecto?
+(Respuesta): Gregor Samsa.
+
+¿Quién escribió "El proceso"?
+(Respuesta): Franz Kafka.
+
+¿Cómo se llama el protagonista del proceso?
+(Respuesta): Josef K.
+
+¿Quién escribió "El extranjero"?
+(Respuesta): Albert Camus.
+
+¿Cómo se llama el protagonista de esa novela?
+(Respuesta): Meursault.
+
+¿Quién escribió "La peste"?
+(Respuesta): Albert Camus.
+
+¿Quién escribió "Ulises"?
+(Respuesta): James Joyce.
+
+¿En qué ciudad ocurre gran parte de "Ulises"?
+(Respuesta): Dublín.
+
+¿Quién escribió "En busca del tiempo perdido"?
+(Respuesta): Marcel Proust.
+
+¿Quién escribió "Lolita"?
+(Respuesta): Vladimir Nabokov.
+
+¿Cómo se llama el protagonista obsesionado de "Lolita"?
+(Respuesta): Humbert Humbert.
+
+¿Quién escribió "El guardián entre el centeno"?
+(Respuesta): J. D. Salinger.
+
+¿Cómo se llama el protagonista de esa novela?
+(Respuesta): Holden Caulfield.
+
+¿Quién escribió "Las uvas de la ira"?
+(Respuesta): John Steinbeck.
+
+¿Quién escribió "De ratones y hombres"?
+(Respuesta): John Steinbeck.
+
+¿Quién escribió "Carrie"?
+(Respuesta): Stephen King.
+
+¿Quién escribió "It"?
+(Respuesta): Stephen King.
+
+¿Cómo se llama el payaso de "It"?
+(Respuesta): Pennywise.
+
+¿Quién escribió "El resplandor"?
+(Respuesta): Stephen King.
+
+¿Cómo se llama el hotel de "El resplandor"?
+(Respuesta): Hotel Overlook.

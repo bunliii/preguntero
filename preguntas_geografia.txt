@@ -1,0 +1,596 @@
+¿Cuál es la capital de Pakistán?
+(Respuesta): Islamabad.
+
+¿Cuál es la capital de Kazajistán?
+(Respuesta): Astaná.
+
+¿Cuál es la capital de Uzbekistán?
+(Respuesta): Taskent.
+
+¿Cuál es la capital de Tayikistán?
+(Respuesta): Dusambé.
+
+¿Cuál es la capital de Kirguistán?
+(Respuesta): Biskek.
+
+¿Cuál es la capital de Turkmenistán?
+(Respuesta): Asjabad.
+
+¿Cuál es la capital de Mongolia?
+(Respuesta): Ulán Bator.
+
+¿Cuál es la capital de Nepal?
+(Respuesta): Katmandú.
+
+¿Cuál es la capital de Bután?
+(Respuesta): Timbu.
+
+¿Cuál es la capital de Sri Lanka?
+(Respuesta): Sri Jayawardenapura Kotte.
+
+¿Cuál es la capital de Laos?
+(Respuesta): Vientián.
+
+¿Cuál es la capital de Camboya?
+(Respuesta): Phnom Penh.
+
+¿Cuál es la capital de Brunei?
+(Respuesta): Bandar Seri Begawan.
+
+¿Cuál es la capital de Timor Oriental?
+(Respuesta): Dili.
+
+¿Cuál es la capital de Madagascar?
+(Respuesta): Antananarivo.
+
+¿Cuál es la capital de Namibia?
+(Respuesta): Windhoek.
+
+¿Cuál es la capital de Botsuana?
+(Respuesta): Gaborone.
+
+¿Cuál es la capital de Lesoto?
+(Respuesta): Maseru.
+
+¿Cuál es la capital de Esuatini?
+(Respuesta): Mbabane.
+
+¿Cuál es la capital de Eritrea?
+(Respuesta): Asmara.
+
+¿Cuál es la capital de Yibuti?
+(Respuesta): Yibuti.
+
+¿Cuál es la capital de Níger?
+(Respuesta): Niamey.
+
+¿Cuál es la capital de Chad?
+(Respuesta): Yamena.
+
+¿Cuál es la capital de Mali?
+(Respuesta): Bamako.
+
+¿Cuál es la capital de Mauritania?
+(Respuesta): Nuakchot.
+
+¿Cuál es la capital de Sierra Leona?
+(Respuesta): Freetown.
+
+¿Cuál es la capital de Liberia?
+(Respuesta): Monrovia.
+
+¿Cuál es la capital de Seychelles?
+(Respuesta): Victoria.
+
+¿Cuál es la capital de Maldivas?
+(Respuesta): Malé.
+
+¿Cuál es la capital de Islandia?
+(Respuesta): Reikiavik.
+
+¿Cuál es la capital de Montenegro?
+(Respuesta): Podgorica.
+
+¿Cuál es la capital de Macedonia del Norte?
+(Respuesta): Skopie.
+
+¿Cuál es la capital de Moldavia?
+(Respuesta): Chisináu.
+
+¿Cuál es la capital de Bielorrusia?
+(Respuesta): Minsk.
+
+¿Cuál es la capital de Georgia?
+(Respuesta): Tiflis.
+
+¿Cuál es la capital de Armenia?
+(Respuesta): Ereván.
+
+¿Cuál es la capital de Azerbaiyán?
+(Respuesta): Bakú.
+
+¿Cuál es la capital de Afganistán?
+(Respuesta): Kabul.
+
+¿Cuál es la capital de Irán?
+(Respuesta): Teherán.
+
+¿Cuál es la capital de Irak?
+(Respuesta): Bagdad.
+
+¿Cuál es la capital de Siria?
+(Respuesta): Damasco.
+
+¿Cuál es la capital de Jordania?
+(Respuesta): Amán.
+
+¿Cuál es la capital de Omán?
+(Respuesta): Mascate.
+
+¿Cuál es la capital de Qatar?
+(Respuesta): Doha.
+
+¿Cuál es la capital de Kuwait?
+(Respuesta): Kuwait.
+
+¿Cuál es la capital de Bahréin?
+(Respuesta): Manama.
+
+¿Cuál es la capital de Yemen?
+(Respuesta): Saná.
+
+¿Cuál es la capital de Etiopía?
+(Respuesta): Addis Abeba.
+
+¿Cuál es la capital de Somalia?
+(Respuesta): Mogadiscio.
+
+¿Cuál es la capital de Kenia?
+(Respuesta): Nairobi.
+
+¿Cuál es la capital de Tanzania?
+(Respuesta): Dodoma.
+
+¿Cuál es la capital de Uganda?
+(Respuesta): Kampala.
+
+¿Cuál es la capital de Ruanda?
+(Respuesta): Kigali.
+
+¿Cuál es la capital de Burundi?
+(Respuesta): Gitega.
+
+¿Cuál es la capital de Zambia?
+(Respuesta): Lusaka.
+
+¿Cuál es la capital de Zimbabue?
+(Respuesta): Harare.
+
+¿Cuál es la capital de Angola?
+(Respuesta): Luanda.
+
+¿Cuál es la capital de Gabón?
+(Respuesta): Libreville.
+
+¿Cuál es la capital de Camerún?
+(Respuesta): Yaundé.
+
+¿Cuál es la capital de República Centroafricana?
+(Respuesta): Bangui.
+
+¿Cuál es la capital de Sudán?
+(Respuesta): Jartum.
+
+¿Cuál es la capital de Sudán del Sur?
+(Respuesta): Yuba.
+
+¿Cuál es la capital de Mongolia?
+(Respuesta): Ulán Bator.
+
+¿En qué continente se encuentra el río Amazonas?
+(Respuesta): América del Sur.
+
+¿En qué mar desemboca el río Nilo?
+(Respuesta): Mar Mediterráneo.
+
+¿En qué país se encuentra el río Volga?
+(Respuesta): Rusia.
+
+¿En qué mar desemboca el río Volga?
+(Respuesta): Mar Caspio.
+
+¿En qué país se encuentra el río Danubio?
+(Respuesta): Alemania (entre varios países).
+
+¿En qué mar desemboca el río Danubio?
+(Respuesta): Mar Negro.
+
+¿En qué país se encuentra el río Rin?
+(Respuesta): Alemania.
+
+¿En qué mar desemboca el río Rin?
+(Respuesta): Mar del Norte.
+
+¿En qué país se encuentra el río Sena?
+(Respuesta): Francia.
+
+¿En qué ciudad pasa el río Sena?
+(Respuesta): París.
+
+¿En qué país se encuentra el río Támesis?
+(Respuesta): Reino Unido.
+
+¿En qué ciudad pasa el río Támesis?
+(Respuesta): Londres.
+
+¿En qué país se encuentra el río Mississippi?
+(Respuesta): Estados Unidos.
+
+¿En qué golfo desemboca el Mississippi?
+(Respuesta): Golfo de México.
+
+¿En qué país se encuentra el río Mekong?
+(Respuesta): China (nace allí).
+
+¿En qué mar desemboca el río Mekong?
+(Respuesta): Mar de China Meridional.
+
+¿En qué país se encuentra el lago Baikal?
+(Respuesta): Rusia.
+
+¿Cuál es el lago más profundo del mundo?
+(Respuesta): Lago Baikal.
+
+¿Entre qué países se encuentra el lago Titicaca?
+(Respuesta): Perú y Bolivia.
+
+¿En qué continente se encuentra el lago Victoria?
+(Respuesta): África.
+
+¿Entre qué países se encuentra el lago Superior?
+(Respuesta): Estados Unidos y Canadá.
+
+¿En qué país se encuentra el lago Como?
+(Respuesta): Italia.
+
+¿En qué país se encuentra el lago Garda?
+(Respuesta): Italia.
+
+¿Entre qué continentes se encuentra el Mar Mediterráneo?
+(Respuesta): Europa, África y Asia.
+
+¿Entre qué países se encuentra el Mar Muerto?
+(Respuesta): Israel y Jordania.
+
+¿En qué océano se encuentra el Mar Caribe?
+(Respuesta): Océano Atlántico.
+
+¿Entre qué países se encuentra el Mar Rojo?
+(Respuesta): Egipto y Arabia Saudita.
+
+¿En qué océano se encuentra el Mar de Japón?
+(Respuesta): Océano Pacífico.
+
+¿Entre qué países se encuentra el Mar Negro?
+(Respuesta): Turquía, Ucrania y Rusia.
+
+¿En qué océano se encuentra el Mar de Noruega?
+(Respuesta): Océano Atlántico.
+
+¿Cuál es la montaña más alta del mundo?
+(Respuesta): Monte Everest.
+
+¿En qué cordillera se encuentra el Everest?
+(Respuesta): Himalaya.
+
+¿En qué países se encuentra el Everest?
+(Respuesta): Nepal y China.
+
+¿Cuál es la montaña más alta de América?
+(Respuesta): Aconcagua.
+
+¿En qué país está el Aconcagua?
+(Respuesta): Argentina.
+
+¿Cuál es el desierto más grande del mundo?
+(Respuesta): Antártico.
+
+¿Cuál es el desierto cálido más grande del mundo?
+(Respuesta): Sahara.
+
+¿En qué continente está el Sahara?
+(Respuesta): África.
+
+¿Cuál es el océano más grande del mundo?
+(Respuesta): Océano Pacífico.
+
+¿Cuál es el océano más pequeño del mundo?
+(Respuesta): Océano Ártico.
+
+¿Qué país tiene más superficie del mundo?
+(Respuesta): Rusia.
+
+¿Cuál es el país más poblado del mundo?
+(Respuesta): India.
+
+¿Cuál es el país más grande de Sudamérica?
+(Respuesta): Brasil.
+
+¿Cuál es el país más grande de África?
+(Respuesta): Argelia.
+
+¿Cuál es el país más grande de Europa?
+(Respuesta): Rusia.
+
+¿Cuál es el río más largo del mundo según muchos estudios recientes?
+(Respuesta): Amazonas.
+
+¿Cuál es el río más largo de Europa?
+(Respuesta): Volga.
+
+¿Cuál es el lago más grande del mundo por superficie?
+(Respuesta): Mar Caspio.
+
+¿En qué continente está Groenlandia?
+(Respuesta): América del Norte.
+
+¿Qué país posee Groenlandia?
+(Respuesta): Dinamarca.
+
+¿Cuál es la isla más grande del mundo?
+(Respuesta): Groenlandia.
+
+¿Cuál es la capital de Groenlandia?
+(Respuesta): Nuuk.
+
+¿Cuál es la capital de Australia?
+(Respuesta): Canberra.
+
+¿Cuál es la capital de Canadá?
+(Respuesta): Ottawa.
+
+¿Cuál es la capital de Nueva Zelanda?
+(Respuesta): Wellington.
+
+¿Cuál es la capital de Noruega?
+(Respuesta): Oslo.
+
+¿Cuál es la capital de Finlandia?
+(Respuesta): Helsinki.
+
+¿Cuál es la capital de Estonia?
+(Respuesta): Tallin.
+
+¿Cuál es la capital de Letonia?
+(Respuesta): Riga.
+
+¿Cuál es la capital de Lituania?
+(Respuesta): Vilna.
+
+¿Cuál es la capital de Eslovenia?
+(Respuesta): Liubliana.
+
+¿Cuál es la capital de Croacia?
+(Respuesta): Zagreb.
+
+¿Cuál es la capital de Serbia?
+(Respuesta): Belgrado.
+
+¿Cuál es la capital de Bosnia y Herzegovina?
+(Respuesta): Sarajevo.
+
+¿Cuál es la capital de Albania?
+(Respuesta): Tirana.
+
+¿Cuál es la capital de Bulgaria?
+(Respuesta): Sofía.
+
+¿Cuál es la capital de Rumania?
+(Respuesta): Bucarest.
+
+¿Cuál es la capital de Hungría?
+(Respuesta): Budapest.
+
+¿Cuál es la capital de Eslovaquia?
+(Respuesta): Bratislava.
+
+¿Cuál es la capital de República Checa?
+(Respuesta): Praga.
+
+¿Cuál es la capital de Austria?
+(Respuesta): Viena.
+
+¿Cuál es la capital de Suiza?
+(Respuesta): Berna.
+
+¿Entre qué dos países se encuentra la ciudad de Estambul dividida por continentes?
+(Respuesta): Turquía (entre Europa y Asia).
+
+¿En qué país se encuentra la ciudad de Dubái?
+(Respuesta): Emiratos Árabes Unidos.
+
+¿En qué país se encuentra la ciudad de Shanghái?
+(Respuesta): China.
+
+¿En qué país se encuentra la ciudad de Toronto?
+(Respuesta): Canadá.
+
+¿En qué país se encuentra la ciudad de Río de Janeiro?
+(Respuesta): Brasil.
+
+¿En qué país se encuentra la ciudad de Barcelona?
+(Respuesta): España.
+
+¿En qué país se encuentra la ciudad de Múnich?
+(Respuesta): Alemania.
+
+¿En qué país se encuentra la ciudad de Nápoles?
+(Respuesta): Italia.
+
+¿En qué país se encuentra la ciudad de Marrakech?
+(Respuesta): Marruecos.
+
+¿En qué país se encuentra la ciudad de Auckland?
+(Respuesta): Nueva Zelanda.
+
+¿Con qué país limita Argentina al oeste?
+(Respuesta): Chile.
+
+¿Con qué país limita Francia al sur?
+(Respuesta): España.
+
+¿Con qué país limita Alemania al sur?
+(Respuesta): Austria.
+
+¿Con qué país limita México al norte?
+(Respuesta): Estados Unidos.
+
+¿Con qué país limita Brasil al sur?
+(Respuesta): Uruguay.
+
+¿Con qué país limita Polonia al oeste?
+(Respuesta): Alemania.
+
+¿Con qué país limita China al sur con una gran cordillera?
+(Respuesta): Nepal.
+
+¿Con qué país limita Italia al norte?
+(Respuesta): Suiza.
+
+¿Con qué país limita Portugal al este?
+(Respuesta): España.
+
+¿Con qué país limita Finlandia al este?
+(Respuesta): Rusia.
+
+¿En qué cordillera se encuentra el monte Everest?
+(Respuesta): Himalaya.
+
+¿Cuál es la montaña más alta de África?
+(Respuesta): Kilimanjaro.
+
+¿En qué país está el monte Kilimanjaro?
+(Respuesta): Tanzania.
+
+¿Cuál es la montaña más alta de Europa?
+(Respuesta): Elbrus.
+
+¿En qué país se encuentra el monte Elbrus?
+(Respuesta): Rusia.
+
+¿Cuál es la montaña más alta de América del Norte?
+(Respuesta): Denali.
+
+¿En qué país se encuentra el monte Denali?
+(Respuesta): Estados Unidos.
+
+¿Cuál es la montaña más alta de Japón?
+(Respuesta): Monte Fuji.
+
+¿En qué país se encuentra el Monte Blanc?
+(Respuesta): Francia (frontera con Italia).
+
+¿En qué cordillera se encuentra el Aconcagua?
+(Respuesta): Cordillera de los Andes.
+
+¿Qué país tiene una bandera con una hoja de arce roja?
+(Respuesta): Canadá.
+
+¿Qué país tiene una bandera con un sol rojo sobre fondo blanco?
+(Respuesta): Japón.
+
+¿Qué país tiene una bandera con una hoja de cedro verde?
+(Respuesta): Líbano.
+
+¿Qué país tiene una bandera con un dragón rojo?
+(Respuesta): Bután.
+
+¿Qué país tiene una bandera con una cruz blanca sobre fondo rojo?
+(Respuesta): Suiza.
+
+¿Qué país tiene una bandera con una cruz azul sobre fondo blanco?
+(Respuesta): Finlandia.
+
+¿Qué país tiene una bandera con una cruz amarilla sobre fondo azul?
+(Respuesta): Suecia.
+
+¿Qué país tiene una bandera con un sol amarillo en el centro?
+(Respuesta): Argentina.
+
+¿Qué país tiene una bandera con un círculo rojo en el centro?
+(Respuesta): Japón.
+
+¿Qué país tiene una bandera con tres colores verticales verde blanco rojo?
+(Respuesta): Italia.
+
+¿En qué continente está el desierto de Gobi?
+(Respuesta): Asia.
+
+¿Entre qué países se encuentra el desierto de Gobi?
+(Respuesta): Mongolia y China.
+
+¿En qué continente está el desierto de Atacama?
+(Respuesta): América del Sur.
+
+¿En qué país se encuentra el desierto de Atacama?
+(Respuesta): Chile.
+
+¿Cuál es el río más largo de Asia?
+(Respuesta): Yangtsé.
+
+¿En qué país se encuentra el río Yangtsé?
+(Respuesta): China.
+
+¿En qué país se encuentra el río Ganges?
+(Respuesta): India.
+
+¿En qué país se encuentra el río Támesis?
+(Respuesta): Reino Unido.
+
+¿En qué ciudad pasa el río Danubio en Hungría?
+(Respuesta): Budapest.
+
+¿En qué ciudad pasa el río Sena?
+(Respuesta): París.
+
+¿En qué ciudad pasa el río Tíber?
+(Respuesta): Roma.
+
+¿En qué ciudad pasa el río Spree?
+(Respuesta): Berlín.
+
+¿En qué ciudad pasa el río Hudson?
+(Respuesta): Nueva York.
+
+¿Cuál es el estrecho que separa Europa de África?
+(Respuesta): Estrecho de Gibraltar.
+
+¿Qué océano baña las costas de Japón?
+(Respuesta): Océano Pacífico.
+
+¿Qué océano baña las costas de Brasil?
+(Respuesta): Océano Atlántico.
+
+¿Qué océano baña las costas de Australia?
+(Respuesta): Océano Índico y Pacífico.
+
+¿Cuál es el mar entre Europa y África?
+(Respuesta): Mar Mediterráneo.
+
+¿En qué continente se encuentra Egipto?
+(Respuesta): África.
+
+¿En qué continente se encuentra Perú?
+(Respuesta): América del Sur.
+
+¿En qué continente se encuentra Tailandia?
+(Respuesta): Asia.
+
+¿En qué continente se encuentra Noruega?
+(Respuesta): Europa.
+
+¿En qué continente se encuentra Canadá?
+(Respuesta): América del Norte.
+
+¿En qué continente se encuentra Marruecos?
+(Respuesta): África.
