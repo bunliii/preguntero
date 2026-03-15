@@ -1,0 +1,524 @@
+¿Dónde se encuentra el corazón en el cuerpo humano?
+(Respuesta): En el tórax, entre los pulmones.
+
+¿Cuántas cavidades tiene el corazón?
+(Respuesta): Cuatro.
+
+¿Cómo se llaman las cavidades superiores del corazón?
+(Respuesta): Aurículas.
+
+¿Cómo se llaman las cavidades inferiores del corazón?
+(Respuesta): Ventrículos.
+
+¿Qué órgano produce la bilis?
+(Respuesta): El hígado.
+
+¿Dónde se almacena la bilis?
+(Respuesta): En la vesícula biliar.
+
+¿Cuál es el órgano principal del sistema respiratorio?
+(Respuesta): Los pulmones.
+
+¿Qué órgano bombea la sangre por el cuerpo?
+(Respuesta): El corazón.
+
+¿Cuántos huesos tiene aproximadamente el cuerpo humano adulto?
+(Respuesta): 206.
+
+¿Cuál es el hueso más largo del cuerpo humano?
+(Respuesta): El fémur.
+
+¿Cuál es el órgano más grande del cuerpo humano?
+(Respuesta): La piel.
+
+¿Qué órgano filtra la sangre para producir orina?
+(Respuesta): Los riñones.
+
+¿Cuántos riñones tiene normalmente una persona?
+(Respuesta): Dos.
+
+¿Dónde se produce la insulina?
+(Respuesta): En el páncreas.
+
+¿Qué sistema del cuerpo controla las funciones del organismo?
+(Respuesta): El sistema nervioso.
+
+¿Cuál es el órgano principal del sistema nervioso?
+(Respuesta): El cerebro.
+
+¿Cómo se llaman las células del sistema nervioso?
+(Respuesta): Neuronas.
+
+¿Qué órgano permite ver?
+(Respuesta): Los ojos.
+
+¿Qué órgano permite oír?
+(Respuesta): El oído.
+
+¿Qué órgano se encarga de digerir los alimentos en el estómago?
+(Respuesta): El estómago.
+
+¿Qué órgano absorbe la mayor parte de los nutrientes?
+(Respuesta): El intestino delgado.
+
+¿Cuál es la función principal de los pulmones?
+(Respuesta): Intercambiar oxígeno y dióxido de carbono.
+
+¿Qué gas necesitan las células para producir energía?
+(Respuesta): Oxígeno.
+
+¿Qué órgano regula muchas funciones hormonales del cuerpo?
+(Respuesta): La hipófisis.
+
+¿Qué glándula produce adrenalina?
+(Respuesta): Las glándulas suprarrenales.
+
+¿Dónde se encuentran las cuerdas vocales?
+(Respuesta): En la laringe.
+
+¿Cuál es la función principal de la sangre?
+(Respuesta): Transportar oxígeno, nutrientes y desechos.
+
+¿Qué células transportan oxígeno en la sangre?
+(Respuesta): Los glóbulos rojos.
+
+¿Qué células combaten infecciones?
+(Respuesta): Los glóbulos blancos.
+
+¿Qué componente de la sangre ayuda a la coagulación?
+(Respuesta): Las plaquetas.
+
+¿Cómo se llama el pigmento que da color rojo a la sangre?
+(Respuesta): Hemoglobina.
+
+¿Cuál es el órgano encargado de producir la orina?
+(Respuesta): Los riñones.
+
+¿Dónde se almacena la orina antes de ser expulsada?
+(Respuesta): En la vejiga.
+
+¿Cómo se llama el conducto que lleva la orina desde la vejiga al exterior?
+(Respuesta): La uretra.
+
+¿Qué órgano produce enzimas digestivas además de hormonas?
+(Respuesta): El páncreas.
+
+¿Cuál es el músculo principal para respirar?
+(Respuesta): El diafragma.
+
+¿Cómo se llaman los pequeños sacos de los pulmones donde ocurre el intercambio de gases?
+(Respuesta): Alvéolos.
+
+¿Qué órgano controla el equilibrio?
+(Respuesta): El oído interno.
+
+¿Qué parte del ojo controla la cantidad de luz que entra?
+(Respuesta): La pupila.
+
+¿Qué estructura protege el cerebro?
+(Respuesta): El cráneo.
+
+¿Qué órgano produce la voz?
+(Respuesta): La laringe.
+
+¿Qué órgano del sistema digestivo mezcla alimentos con jugos gástricos?
+(Respuesta): El estómago.
+
+¿Qué vitamina se produce en la piel con la luz solar?
+(Respuesta): Vitamina D.
+
+¿Cuál es la principal función del hígado?
+(Respuesta): Procesar nutrientes y desintoxicar sustancias.
+
+¿Dónde se almacenan muchas vitaminas y glucógeno?
+(Respuesta): En el hígado.
+
+¿Cuál es la parte del sistema digestivo donde comienza la digestión?
+(Respuesta): En la boca.
+
+¿Qué sustancia en la saliva comienza la digestión de carbohidratos?
+(Respuesta): Amilasa.
+
+¿Cuál es el órgano responsable del pensamiento y memoria?
+(Respuesta): El cerebro.
+
+¿Qué sistema del cuerpo defiende contra infecciones?
+(Respuesta): El sistema inmunológico.
+
+¿Qué órgano filtra sustancias tóxicas de la sangre?
+(Respuesta): El hígado.
+
+¿Qué parte del cerebro controla el equilibrio y coordinación?
+(Respuesta): El cerebelo.
+
+¿Qué parte del cerebro controla funciones automáticas como respirar?
+(Respuesta): El tronco encefálico.
+
+¿Cómo se llama el tejido que conecta huesos con músculos?
+(Respuesta): Tendones.
+
+¿Cómo se llama el tejido que conecta huesos entre sí?
+(Respuesta): Ligamentos.
+
+¿Cuál es el músculo más fuerte del cuerpo humano?
+(Respuesta): El masetero.
+
+¿Cuál es la función del sistema circulatorio?
+(Respuesta): Transportar sangre por el cuerpo.
+
+¿Cuál es la arteria más grande del cuerpo?
+(Respuesta): La aorta.
+
+¿Cuál es el órgano que produce bilis para la digestión de grasas?
+(Respuesta): El hígado.
+
+¿Qué órgano forma parte del sistema inmunológico y filtra la sangre?
+(Respuesta): El bazo.
+
+¿Qué parte del sistema digestivo conecta la boca con el estómago?
+(Respuesta): El esófago.
+
+¿Qué estructura evita que los alimentos entren a la tráquea?
+(Respuesta): La epiglotis.
+
+¿Qué estructura permite que los pulmones se expandan al respirar?
+(Respuesta): El diafragma.
+
+¿Qué mineral es esencial para los huesos?
+(Respuesta): Calcio.
+
+¿Qué hormona regula el azúcar en sangre?
+(Respuesta): Insulina.
+
+¿Qué órgano controla la temperatura del cuerpo a través del sudor?
+(Respuesta): La piel.
+
+¿Qué órgano permite percibir olores?
+(Respuesta): La nariz.
+
+¿Qué parte del ojo enfoca la luz?
+(Respuesta): El cristalino.
+
+¿Qué tejido cubre y protege el cuerpo?
+(Respuesta): La piel.
+
+¿Qué órgano elimina dióxido de carbono del cuerpo?
+(Respuesta): Los pulmones.
+
+¿Qué órgano participa en la digestión y absorción de agua?
+(Respuesta): El intestino grueso.
+
+¿Qué sistema permite mover el cuerpo?
+(Respuesta): El sistema muscular.
+
+¿Qué órgano produce espermatozoides?
+(Respuesta): Los testículos.
+
+¿Qué órgano produce óvulos?
+(Respuesta): Los ovarios.
+
+¿Qué hormona regula el metabolismo?
+(Respuesta): Tiroxina.
+
+¿Qué glándula produce tiroxina?
+(Respuesta): La glándula tiroides.
+
+¿Qué órgano ayuda a filtrar bacterias de la sangre?
+(Respuesta): El bazo.
+
+¿Qué parte del cuerpo contiene la médula espinal?
+(Respuesta): La columna vertebral.
+
+¿Qué líquido protege el cerebro y la médula espinal?
+(Respuesta): Líquido cefalorraquídeo.
+
+¿Qué órgano produce enzimas digestivas?
+(Respuesta): El páncreas.
+
+¿Qué células producen anticuerpos?
+(Respuesta): Linfocitos.
+
+¿Qué estructura transporta sangre desde el corazón?
+(Respuesta): Las arterias.
+
+¿Qué estructura transporta sangre hacia el corazón?
+(Respuesta): Las venas.
+
+¿Qué vasos sanguíneos permiten el intercambio con tejidos?
+(Respuesta): Los capilares.
+
+¿Cuál es la función principal del sistema linfático?
+(Respuesta): Defender contra infecciones y drenar líquidos.
+
+¿Qué enfermedad se caracteriza por niveles elevados de azúcar en sangre?
+(Respuesta): Diabetes.
+
+¿Cómo se llama la presión arterial elevada?
+(Respuesta): Hipertensión.
+
+¿Qué enfermedad respiratoria produce inflamación de las vías aéreas?
+(Respuesta): Asma.
+
+¿Qué virus causa el SIDA?
+(Respuesta): VIH.
+
+¿Qué enfermedad se produce por falta de hierro en la sangre?
+(Respuesta): Anemia.
+
+¿Qué enfermedad afecta principalmente al hígado y puede ser viral?
+(Respuesta): Hepatitis.
+
+¿Qué enfermedad produce inflamación de las articulaciones?
+(Respuesta): Artritis.
+
+¿Qué enfermedad se caracteriza por pérdida de densidad ósea?
+(Respuesta): Osteoporosis.
+
+¿Qué enfermedad produce inflamación del apéndice?
+(Respuesta): Apendicitis.
+
+¿Qué enfermedad infecciosa produce fiebre alta y manchas en la piel en niños?
+(Respuesta): Sarampión.
+
+¿Qué enfermedad respiratoria fue responsable de una pandemia en 2020?
+(Respuesta): COVID-19.
+
+¿Qué enfermedad viral produce ampollas en la piel y suele aparecer en la infancia?
+(Respuesta): Varicela.
+
+¿Qué enfermedad infecciosa se transmite por mosquitos y produce fiebre alta?
+(Respuesta): Dengue.
+
+¿Qué enfermedad afecta al páncreas y altera la producción de insulina?
+(Respuesta): Diabetes.
+
+¿Qué enfermedad produce inflamación de las amígdalas?
+(Respuesta): Amigdalitis.
+
+¿Qué enfermedad produce dolor e inflamación del estómago?
+(Respuesta): Gastritis.
+
+¿Qué enfermedad produce inflamación del hígado por consumo excesivo de alcohol?
+(Respuesta): Hepatitis alcohólica.
+
+¿Qué enfermedad respiratoria crónica produce dificultad para respirar y tos persistente?
+(Respuesta): EPOC.
+
+¿Qué enfermedad neurológica produce temblores y rigidez muscular?
+(Respuesta): Parkinson.
+
+¿Qué enfermedad neurodegenerativa afecta la memoria en adultos mayores?
+(Respuesta): Alzheimer.
+
+¿Qué infección bacteriana suele afectar la garganta y producir fiebre?
+(Respuesta): Faringitis.
+
+¿Qué enfermedad infecciosa afecta los pulmones y es causada por una bacteria?
+(Respuesta): Tuberculosis.
+
+¿Qué enfermedad produce dolor intenso en el pecho por falta de oxígeno al corazón?
+(Respuesta): Angina de pecho.
+
+¿Qué enfermedad ocurre cuando se bloquea el flujo sanguíneo al corazón?
+(Respuesta): Infarto.
+
+¿Qué enfermedad produce inflamación de los bronquios?
+(Respuesta): Bronquitis.
+
+¿Qué enfermedad causa inflamación de los senos paranasales?
+(Respuesta): Sinusitis.
+
+¿Qué enfermedad produce inflamación del intestino grueso?
+(Respuesta): Colitis.
+
+¿Qué enfermedad produce inflamación del páncreas?
+(Respuesta): Pancreatitis.
+
+¿Qué enfermedad produce inflamación de la vejiga?
+(Respuesta): Cistitis.
+
+¿Qué enfermedad produce dolor e inflamación en los riñones por infección?
+(Respuesta): Pielonefritis.
+
+¿Qué enfermedad se produce por acumulación de colesterol en las arterias?
+(Respuesta): Aterosclerosis.
+
+¿Qué enfermedad produce inflamación del hígado causada por virus A, B o C?
+(Respuesta): Hepatitis viral.
+
+¿Qué enfermedad se caracteriza por acumulación de grasa en el hígado?
+(Respuesta): Hígado graso.
+
+¿Qué enfermedad produce dolor intenso en articulaciones por ácido úrico?
+(Respuesta): Gota.
+
+¿Qué enfermedad afecta el colon y produce diarrea crónica?
+(Respuesta): Enfermedad de Crohn.
+
+¿Qué enfermedad produce inflamación del colon y úlceras?
+(Respuesta): Colitis ulcerosa.
+
+¿Qué enfermedad se transmite por mosquitos y produce dolor muscular intenso?
+(Respuesta): Chikungunya.
+
+¿Qué enfermedad infecciosa puede producir fiebre y manchas en la piel por bacterias transmitidas por garrapatas?
+(Respuesta): Fiebre maculosa.
+
+¿Qué enfermedad viral afecta principalmente el hígado y puede transmitirse por agua contaminada?
+(Respuesta): Hepatitis A.
+
+¿Qué enfermedad infecciosa produce fiebre y dolor de garganta causada por bacterias estreptococo?
+(Respuesta): Escarlatina.
+
+¿Qué enfermedad respiratoria causa inflamación de los pulmones por infección?
+(Respuesta): Neumonía.
+
+¿Qué enfermedad produce inflamación de la piel con enrojecimiento y picazón?
+(Respuesta): Dermatitis.
+
+¿Qué enfermedad produce inflamación de las encías?
+(Respuesta): Gingivitis.
+
+¿Qué enfermedad de transmisión sexual es causada por la bacteria Treponema pallidum?
+(Respuesta): Sífilis.
+
+¿Qué enfermedad de transmisión sexual es causada por la bacteria Neisseria gonorrhoeae?
+(Respuesta): Gonorrea.
+
+¿Qué enfermedad infecciosa produce inflamación del cerebro?
+(Respuesta): Encefalitis.
+
+¿Qué enfermedad produce inflamación de las meninges?
+(Respuesta): Meningitis.
+
+¿Qué enfermedad viral afecta el hígado y puede transmitirse por sangre?
+(Respuesta): Hepatitis B.
+
+¿Qué enfermedad viral también afecta el hígado y se transmite principalmente por sangre?
+(Respuesta): Hepatitis C.
+
+¿Qué enfermedad produce inflamación del oído medio?
+(Respuesta): Otitis media.
+
+¿Qué enfermedad produce dolor e inflamación en la garganta?
+(Respuesta): Laringitis.
+
+¿Qué enfermedad viral produce fiebre, dolor muscular y cansancio intenso en invierno?
+(Respuesta): Gripe.
+
+¿Qué enfermedad infecciosa produce tos persistente y es muy contagiosa en niños?
+(Respuesta): Tos ferina.
+
+¿Qué enfermedad infecciosa afecta principalmente a niños y produce inflamación de las glándulas salivales?
+(Respuesta): Paperas.
+
+¿Qué enfermedad infecciosa produce manchas rojas en la piel y fiebre?
+(Respuesta): Rubéola.
+
+¿Qué enfermedad se produce por deficiencia de vitamina C?
+(Respuesta): Escorbuto.
+
+¿Qué enfermedad se produce por deficiencia de vitamina D en niños?
+(Respuesta): Raquitismo.
+
+¿Qué enfermedad se produce por deficiencia de vitamina B12?
+(Respuesta): Anemia megaloblástica.
+
+¿Qué enfermedad produce inflamación del nervio ciático y dolor en la pierna?
+(Respuesta): Ciática.
+
+¿Qué enfermedad se caracteriza por inflamación crónica de las articulaciones?
+(Respuesta): Artritis reumatoide.
+
+¿Qué enfermedad afecta la tiroides produciendo exceso de hormonas?
+(Respuesta): Hipertiroidismo.
+
+¿Qué enfermedad ocurre cuando la tiroides produce pocas hormonas?
+(Respuesta): Hipotiroidismo.
+
+¿Qué enfermedad produce inflamación de los ganglios linfáticos?
+(Respuesta): Linfadenitis.
+
+¿Qué enfermedad infecciosa transmitida por mosquitos produce anemia y fiebre?
+(Respuesta): Malaria.
+
+¿Qué enfermedad infecciosa se transmite por alimentos contaminados con Salmonella?
+(Respuesta): Salmonelosis.
+
+¿Qué enfermedad infecciosa intestinal produce diarrea severa por bacterias?
+(Respuesta): Disentería.
+
+¿Qué enfermedad ocurre cuando hay inflamación del peritoneo?
+(Respuesta): Peritonitis.
+
+¿Qué enfermedad produce inflamación del colon por infección bacteriana?
+(Respuesta): Colitis bacteriana.
+
+¿Qué enfermedad produce inflamación de los bronquiolos en niños?
+(Respuesta): Bronquiolitis.
+
+¿Qué enfermedad viral puede producir verrugas en la piel?
+(Respuesta): Virus del papiloma humano.
+
+¿Qué enfermedad de transmisión sexual puede causar cáncer de cuello uterino?
+(Respuesta): Virus del papiloma humano.
+
+¿Qué enfermedad produce inflamación de los vasos sanguíneos?
+(Respuesta): Vasculitis.
+
+¿Qué enfermedad produce inflamación del corazón?
+(Respuesta): Miocarditis.
+
+¿Qué enfermedad produce inflamación del pericardio?
+(Respuesta): Pericarditis.
+
+¿Qué enfermedad produce inflamación de los músculos?
+(Respuesta): Miositis.
+
+¿Qué enfermedad produce inflamación de los nervios?
+(Respuesta): Neuritis.
+
+¿Qué enfermedad ocurre cuando se inflaman los ganglios del cuello?
+(Respuesta): Adenitis.
+
+¿Qué enfermedad produce inflamación del estómago e intestinos por infección?
+(Respuesta): Gastroenteritis.
+
+¿Qué enfermedad viral transmitida por mosquitos puede causar fiebre hemorrágica?
+(Respuesta): Dengue grave.
+
+¿Qué enfermedad ocurre cuando hay acumulación de líquido en los pulmones?
+(Respuesta): Edema pulmonar.
+
+¿Qué enfermedad ocurre cuando el cerebro recibe poco oxígeno por bloqueo vascular?
+(Respuesta): Accidente cerebrovascular.
+
+¿Qué enfermedad produce inflamación del páncreas por cálculos o alcohol?
+(Respuesta): Pancreatitis.
+
+¿Qué enfermedad produce inflamación del colon por infección viral o bacteriana?
+(Respuesta): Colitis infecciosa.
+
+¿Qué enfermedad produce inflamación del hígado por virus transmitido por agua contaminada?
+(Respuesta): Hepatitis E.
+
+¿Qué enfermedad se produce por acumulación de placa en arterias coronarias?
+(Respuesta): Enfermedad coronaria.
+
+¿Qué enfermedad se caracteriza por crecimiento anormal de células?
+(Respuesta): Cáncer.
+
+¿Qué enfermedad afecta la médula ósea y produce exceso de glóbulos blancos?
+(Respuesta): Leucemia.
+
+¿Qué enfermedad afecta los ganglios linfáticos y sistema inmune?
+(Respuesta): Linfoma.
+
+¿Qué enfermedad produce inflamación del intestino delgado por intolerancia al gluten?
+(Respuesta): Enfermedad celíaca.
+
+¿Qué enfermedad produce acumulación de líquido en el abdomen?
+(Respuesta): Ascitis.
+
+¿Qué enfermedad produce inflamación del hígado y puede llevar a cicatrización?
+(Respuesta): Cirrosis.
